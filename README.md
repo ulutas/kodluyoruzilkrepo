@@ -1,5 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org) .NetCore Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası ve bir adet index.html barındırıyor.
+![Patika](https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png)
 ## Installation
 Öncelikle projeyi klonlayın.
 ```bash
